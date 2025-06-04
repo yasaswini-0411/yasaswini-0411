@@ -1,4 +1,4 @@
-# Hi there, I'm Yasaswini 👋
+# Hi there, I'm Yasaswini Bugga 👋
 
 🎓 **Student at Matrusri Engineering College**  
 🖥️ B.Tech 2nd Year, Computer Science & Engineering (Specialization: Data Science)  
