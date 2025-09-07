@@ -1,7 +1,7 @@
 # Hi there, I'm Yasaswini Bugga 👋
 
 🎓 **Student at Matrusri Engineering College**  
-🖥️ B.Tech 2nd Year, Computer Science & Engineering (Specialization: Data Science)  
+🖥️ B.Tech 3rd Year, Computer Science & Engineering (Specialization: Data Science)  
 🐍 **Python Beginner**  
 🏅 Certified in Python Basics
 
@@ -41,6 +41,7 @@
 ## 📫 Contact Me
 
 - 📧 yasaswinipriyankabugga@gmail.com
+- www.linkedin.com/in/yasaswini-priyanka-bugga-410a2937b
 
 ---
 
